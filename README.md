@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ...
 
 
-[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=mickeyouyou&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=mickeyouyou&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
