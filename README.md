@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=mickeyouyou)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 **mickeyouyou/mickeyouyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+[![Paul's github stats](https://github-readme-stats.vercel.app/api?username=mickeyouyou&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
