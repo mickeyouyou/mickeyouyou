@@ -3,7 +3,10 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 09 March, 2021 - 16 March, 2021
+
+C++   13 mins         ███████████████████████░░   91.88 % 
+C     1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 ```
 <!--END_SECTION:waka-->
 
