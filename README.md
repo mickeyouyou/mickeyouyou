@@ -3,7 +3,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 24 December, 2021 - 30 December, 2021
+Week: 25 December, 2021 - 31 December, 2021
 
 C++          3 hrs 42 mins   ██████████████░░░░░░░░░░░   55.70 % 
 Python       1 hr 16 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.13 % 
