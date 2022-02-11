@@ -3,7 +3,7 @@
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Week: 03 February, 2022 - 09 February, 2022
+Week: 04 February, 2022 - 10 February, 2022
 
 C++      8 hrs 43 mins   █████████████░░░░░░░░░░░░   51.98 % 
 CMake    4 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.52 % 
