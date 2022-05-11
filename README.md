@@ -4,11 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 May 2022 - To: 09 May 2022
+From: 03 May 2022 - To: 10 May 2022
 
-C++               9 hrs 18 mins   ███████████████░░░░░░░░░░   59.73 %
-CMake             2 hrs 10 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
-Other             2 hrs 2 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
+C++               11 hrs 49 mins  ███████████████░░░░░░░░░░   60.06 %
+Other             2 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.51 %
 ```
 
 <!--END_SECTION:waka-->
