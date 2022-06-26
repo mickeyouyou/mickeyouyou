@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 June 2022 - To: 24 June 2022
+From: 18 June 2022 - To: 25 June 2022
 
-Python   4 hrs 58 mins   ███████████████████████░░   91.98 %
-YAML     19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
-Other    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Python   6 hrs 40 mins   ███████████████████████▒░   92.89 %
+YAML     19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+Other    10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
 ```
 
 <!--END_SECTION:waka-->
