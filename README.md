@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 July 2022 - To: 18 July 2022
+From: 12 July 2022 - To: 19 July 2022
 
-Python   15 hrs 14 mins  ███████████████████▓░░░░░   78.40 %
-C++      1 hr 38 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 %
-Other    1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Python   9 hrs 30 mins   ████████████████░░░░░░░░░   64.45 %
+C++      2 hrs 45 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
+Other    1 hr 13 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
 ```
 
 <!--END_SECTION:waka-->
