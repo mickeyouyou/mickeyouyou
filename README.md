@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2022 - To: 13 August 2022
+From: 07 August 2022 - To: 14 August 2022
 
 C++               11 hrs 16 mins  ████████████░░░░░░░░░░░░░   47.58 %
 Bash              4 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   19.59 %
