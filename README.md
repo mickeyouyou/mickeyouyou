@@ -4,12 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 August 2022 - To: 28 August 2022
+From: 22 August 2022 - To: 29 August 2022
 
-CMake             5 hrs 20 mins   ████████▓░░░░░░░░░░░░░░░░   34.49 %
-C++               4 hrs 24 mins   ███████░░░░░░░░░░░░░░░░░░   28.47 %
-Bash              2 hrs 45 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
-Other             1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
+C++               5 hrs 8 mins    █████████▒░░░░░░░░░░░░░░░   37.70 %
+CMake             3 hrs 8 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
+Bash              2 hrs 9 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.89 %
+Other             1 hr 30 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.10 %
 ```
 
 <!--END_SECTION:waka-->
