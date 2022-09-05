@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 August 2022 - To: 02 September 2022
+From: 28 August 2022 - To: 04 September 2022
 
-C++          11 hrs 34 mins  █████████████████▒░░░░░░░   69.12 %
-Bash         1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Other        1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 %
+C++          11 hrs 14 mins  █████████████████░░░░░░░░   68.47 %
+Bash         1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
+Other        1 hr 24 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
 ```
 
 <!--END_SECTION:waka-->
