@@ -4,9 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 September 2022 - To: 25 September 2022
+From: 19 September 2022 - To: 26 September 2022
 
-Other      2 hrs           █████████░░░░░░░░░░░░░░░░   36.27 %
+Bash              3 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.61 %
+C++               3 hrs 27 mins   ███████▓░░░░░░░░░░░░░░░░░   30.96 %
+Other             3 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
 ```
 
 <!--END_SECTION:waka-->
