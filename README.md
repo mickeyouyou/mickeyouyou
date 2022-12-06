@@ -4,12 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 04 December 2022
+From: 28 November 2022 - To: 05 December 2022
 
-C++        1 hr 21 mins    ██████████████▓░░░░░░░░░░   58.07 %
-YAML       25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
-Python     11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
-Other      9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+C++        1 hr 2 mins     █████████▓░░░░░░░░░░░░░░░   38.17 %
+Other      37 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.08 %
 ```
 
 <!--END_SECTION:waka-->
