@@ -4,9 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 December 2022 - To: 20 December 2022
+From: 14 December 2022 - To: 21 December 2022
 
-C++   9 mins          █████████████████████████   100.00 %
+C++    59 mins         ██████████████████████▓░░   90.80 %
+Bash   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
