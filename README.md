@@ -4,12 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 December 2022 - To: 28 December 2022
+From: 22 December 2022 - To: 29 December 2022
 
-C++               5 hrs 18 mins   ███████████████▓░░░░░░░░░   62.58 %
-Python            1 hr 49 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
-XML               1 hr 2 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-Other             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+C++               2 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.21 %
+Python            2 hrs 7 mins    ███████░░░░░░░░░░░░░░░░░░   28.13 %
+Bash              1 hr 19 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+XML               1 hr 2 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Other             36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 %
 ```
 
 <!--END_SECTION:waka-->
