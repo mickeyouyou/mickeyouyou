@@ -4,10 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 02 January 2023
+From: 27 December 2022 - To: 03 January 2023
 
-Bash              1 hr 34 mins    █████████▒░░░░░░░░░░░░░░░   36.87 %
-Other             1 hr 8 mins     ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
+C++        3 hrs 17 mins   ████████▒░░░░░░░░░░░░░░░░   33.79 %
+Bash       3 hrs 13 mins   ████████▒░░░░░░░░░░░░░░░░   33.08 %
+Other      2 hrs 37 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
 ```
 
 <!--END_SECTION:waka-->
