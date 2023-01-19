@@ -4,10 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-C++               3 hrs 2 mins    ████████████████░░░░░░░░░   63.62 %
-Other             59 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.93 %
+C++               2 hrs 22 mins   ███████████████░░░░░░░░░░   59.55 %
+Other             43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.32 %
 ```
 
 <!--END_SECTION:waka-->
