@@ -4,10 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 January 2023 - To: 29 January 2023
+From: 23 January 2023 - To: 30 January 2023
 
-CMake    5 mins          ████████████████████████░   96.53 %
-Python   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+C++        37 mins         ███████▓░░░░░░░░░░░░░░░░░   30.78 %
+Bash       32 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+Other      17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
 ```
 
 <!--END_SECTION:waka-->
