@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2023 - To: 21 March 2023
+From: 15 March 2023 - To: 22 March 2023
 
-C++               5 hrs 49 mins   █████████████▓░░░░░░░░░░░   54.14 %
-Bash              2 hrs 24 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
-Other             2 hrs 21 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.85 %
+C++               6 hrs 19 mins   ██████████▓░░░░░░░░░░░░░░   42.06 %
+Bash              5 hrs 24 mins   █████████░░░░░░░░░░░░░░░░   35.97 %
+Other             2 hrs 57 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 %
 ```
 
 <!--END_SECTION:waka-->
