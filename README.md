@@ -4,10 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2023 - To: 19 April 2023
+From: 13 April 2023 - To: 20 April 2023
 
-C++               13 hrs 42 mins  ██████████▓░░░░░░░░░░░░░░   42.60 %
-Other             8 hrs 29 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+C++               10 hrs 21 mins  █████████▒░░░░░░░░░░░░░░░   37.77 %
+Other             7 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
 ```
 
 <!--END_SECTION:waka-->
