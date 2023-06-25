@@ -4,9 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 23 June 2023
+From: 17 June 2023 - To: 24 June 2023
 
-CMake   0 secs          █████████████████████████   100.00 %
+C++     1 min           █████████████████████▓░░░   86.33 %
+CMake   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+C       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 ```
 
 <!--END_SECTION:waka-->
