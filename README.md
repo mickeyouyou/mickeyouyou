@@ -4,7 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 12 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
 C++               15 hrs 36 mins  ███████████████████░░░░░░   75.81 %
 Other             1 hr 45 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
