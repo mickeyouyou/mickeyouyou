@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 11 September 2023
+From: 05 September 2023 - To: 12 September 2023
 
-C++               19 hrs 16 mins  ███████████████████▓░░░░░   78.16 %
-C                 2 hrs 38 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-Assembly          49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-ActionScript      43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-Bash              40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+C++               19 hrs 34 mins  █████████████████▓░░░░░░░   70.71 %
+C                 3 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 %
+ActionScript      1 hr 28 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Bash              1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Assembly          49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
 ```
 
 <!--END_SECTION:waka-->
