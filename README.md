@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 September 2023 - To: 21 September 2023
+From: 15 September 2023 - To: 22 September 2023
 
-C++               10 hrs 15 mins  █████████████████▓░░░░░░░   70.96 %
-Bash              1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-Cuda              50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-ActionScript      35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Ezhil             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+C++               8 hrs 45 mins   █████████████████░░░░░░░░   68.04 %
+Bash              1 hr 44 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+ActionScript      35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Ezhil             30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 %
+Cuda              26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
 ```
 
 <!--END_SECTION:waka-->
