@@ -4,12 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2024 - To: 19 February 2024
+From: 13 February 2024 - To: 20 February 2024
 
-Python            1 hr 16 mins    ██████████████░░░░░░░░░░░   56.44 %
-C++               58 mins         ███████████░░░░░░░░░░░░░░   43.54 %
-Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+C++               3 hrs 31 mins   ███████████████▓░░░░░░░░░   62.90 %
+Python            1 hr 33 mins    ███████░░░░░░░░░░░░░░░░░░   27.94 %
+CMake             12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Bash              10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+Other             7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
