@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2024 - To: 29 February 2024
+From: 23 February 2024 - To: 01 March 2024
 
-Python       2 hrs 24 mins   ████████████░░░░░░░░░░░░░   48.12 %
-C++          1 hr 39 mins    ████████▒░░░░░░░░░░░░░░░░   33.20 %
-Markdown     26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-Bash         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
-SSH Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Python       1 hr 28 mins    █████████████▓░░░░░░░░░░░   54.10 %
+C++          40 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
+Markdown     26 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+SSH Config   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
