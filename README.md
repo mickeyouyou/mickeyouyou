@@ -4,10 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 April 2024 - To: 22 April 2024
+From: 16 April 2024 - To: 23 April 2024
 
-Python   14 mins         ████████████▓░░░░░░░░░░░░   50.62 %
-C++      13 mins         ████████████▒░░░░░░░░░░░░   49.38 %
+Python   34 mins         ██████████████████░░░░░░░   71.90 %
+C++      13 mins         ███████░░░░░░░░░░░░░░░░░░   28.10 %
 ```
 
 <!--END_SECTION:waka-->
