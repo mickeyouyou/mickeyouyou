@@ -4,13 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2024 - To: 20 June 2024
+From: 14 June 2024 - To: 21 June 2024
 
-C++        1 hr 15 mins    ████████████▓░░░░░░░░░░░░   50.17 %
-Bash       39 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
-Other      18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 %
-YAML       10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-Python     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
