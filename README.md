@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 June 2024 - To: 24 June 2024
+From: 18 June 2024 - To: 25 June 2024
 
-Bash         23 mins         █████████████░░░░░░░░░░░░   52.08 %
-JavaScript   21 mins         ████████████░░░░░░░░░░░░░   47.81 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Bash         41 mins         ███████████████▓░░░░░░░░░   62.05 %
+JavaScript   25 mins         █████████▒░░░░░░░░░░░░░░░   37.88 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
