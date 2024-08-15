@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2024 - To: 13 August 2024
+From: 07 August 2024 - To: 14 August 2024
 
-Python             22 hrs 46 mins  █████████████████████▒░░░   85.31 %
-C++                2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-Other              1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-reStructuredText   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-TOML               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Python             22 hrs 42 mins  █████████████████████▒░░░   84.92 %
+C++                2 hrs 49 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Other              47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+reStructuredText   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Text               6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
