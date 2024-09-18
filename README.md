@@ -4,13 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2024 - To: 16 September 2024
+From: 10 September 2024 - To: 17 September 2024
 
-Python   1 hr 44 mins    █████████████████▓░░░░░░░   70.87 %
-C++      26 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.66 %
-Bash     14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
