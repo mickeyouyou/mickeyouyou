@@ -4,9 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 September 2024 - To: 17 September 2024
+From: 11 September 2024 - To: 18 September 2024
 
-No activity tracked
+CMake         1 hr 44 mins    ██████████▓░░░░░░░░░░░░░░   42.85 %
+C++           1 hr 8 mins     ███████░░░░░░░░░░░░░░░░░░   28.00 %
+Bash          32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+Text          29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+Cuda          5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
 ```
 
 <!--END_SECTION:waka-->
