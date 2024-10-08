@@ -4,13 +4,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2024 - To: 06 October 2024
+From: 30 September 2024 - To: 07 October 2024
 
-Other         1 hr 10 mins    ███████████░░░░░░░░░░░░░░   44.15 %
-C             43 mins         ███████░░░░░░░░░░░░░░░░░░   27.44 %
-Bash          14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
-C++           12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-Objective-C   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
