@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-C++           3 hrs 34 mins   ███████▒░░░░░░░░░░░░░░░░░   28.80 %
-C             3 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   28.54 %
-Other         2 hrs 32 mins   █████░░░░░░░░░░░░░░░░░░░░   20.54 %
-Objective-C   1 hr 20 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-Python        1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
+C++           3 hrs 49 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.68 %
+C             3 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   23.70 %
+Python        3 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+Other         2 hrs 33 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
+Objective-C   1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
 ```
 
 <!--END_SECTION:waka-->
