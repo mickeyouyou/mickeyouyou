@@ -4,9 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2024 - To: 11 November 2024
+From: 06 November 2024 - To: 13 November 2024
 
-No activity tracked
+Python   24 mins         ██████████▒░░░░░░░░░░░░░░   41.03 %
+Other    16 mins         ███████░░░░░░░░░░░░░░░░░░   27.70 %
+CMake    11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.33 %
+Bash     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Text     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 ```
 
 <!--END_SECTION:waka-->
