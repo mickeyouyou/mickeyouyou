@@ -4,13 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2024 - To: 19 November 2024
+From: 13 November 2024 - To: 20 November 2024
 
-Python   1 hr 25 mins    ████████████████▓░░░░░░░░   66.17 %
-Other    16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-CMake    11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-Bash     10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Text     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+Python   1 hr 25 mins    █████████████████████▓░░░   86.13 %
+Bash     7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+YAML     6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
