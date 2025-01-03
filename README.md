@@ -4,11 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2024 - To: 01 January 2025
+From: 26 December 2024 - To: 02 January 2025
 
-Python   1 hr 43 mins    █████████████████████▒░░░   85.50 %
-Bash     17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-Roff     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python     1 hr 25 mins    ███████████████░░░░░░░░░░   60.62 %
+YAML       41 mins         ███████▒░░░░░░░░░░░░░░░░░   29.54 %
+Markdown   13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
+Roff       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+C++        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
