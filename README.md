@@ -4,13 +4,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2025 - To: 01 April 2025
+From: 26 March 2025 - To: 02 April 2025
 
-Python             18 hrs 12 mins  █████████████████████████   99.82 %
-reStructuredText   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-SSH Config         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-YAML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       10 hrs 5 mins   █████████████████████████   99.92 %
+SSH Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
